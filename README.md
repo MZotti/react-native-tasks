@@ -13,3 +13,5 @@ Then:
 Start your Android Studio emulator then run:
 
 ### `npx react-native run-android`
+
+Make sure the API is running too.
