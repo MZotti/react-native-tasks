@@ -1,6 +1,6 @@
 A Task List project using React Native and NodeJS.
 
-This is the API for the project. To see the mobile interface, check this repository: https://github.com/MZotti/react-native-tasks
+This is the mobile interface of the project. To see the API, check this repository: https://github.com/MZotti/react-native-tasks-api
 
 To run, execute:
 
@@ -8,6 +8,8 @@ To run, execute:
 
 Then:
 
-### `npm start`
+### `npx react-native start`
 
-The default url is: [http://localhost:300](http://localhost:300)
+Start your Android Studio emulator then run:
+
+### `npx react-native run-android`
